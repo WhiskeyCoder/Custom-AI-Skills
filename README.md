@@ -46,6 +46,8 @@ Each skill includes:
 | Skill             | Description                                                   |
 | ----------------- | ------------------------------------------------------------- |
 | Gitea Integration | Manage repositories, files, issues, and pull requests via API |
+| ----------------- | ------------------------------------------------------------- |
+| OpenSearch | Manage, add and read from Opensearch instances |
 
 ---
 
